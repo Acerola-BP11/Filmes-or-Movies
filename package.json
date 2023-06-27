@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "lodash": "^4.17.21",
+    "sequelize": "^6.32.1",
+    "sqlite3": "^5.1.6"
+  },
+  "name": "filmes-or-movies",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./src"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
